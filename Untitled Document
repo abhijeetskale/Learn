@@ -1,0 +1,54 @@
+https://github.com/abhijeetskale/test-git.git
+
+abhijeetskale
+password-linux
+
+or create a new repository on the command line
+echo "# test-git" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abhijeetskale/test-git.git
+git push -u origin main
+
+or push an existing repository from the command line
+git remote add origin https://github.com/abhijeetskale/jenkins.git
+git branch -M main
+git push -u origin main
+
+git config --global user.email "mr.abhijeetskale@gmail.com
+git config --global user.name "abhijeetskale"
+git init
+git add -A
+git status
+
+git commit -m "index.html & CM & index.html.com added"
+git remote add origin https://github.com/abhijeetskale/jenkins.git
+
+git push origin master
+git clone https://github.com/abhijeetskale/test-git.git
+
+
+echo "# Learn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abhijeetskale/Learn.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/abhijeetskale/Learn.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
